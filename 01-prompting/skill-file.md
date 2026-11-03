@@ -23,6 +23,8 @@ _____
 ## Constraints
 
 _Musts, must-nots, and refusal conditions._
+DO not  go to create your own tasks.
+DO not take any action just consolidate and analyse data
 
 _____
 
